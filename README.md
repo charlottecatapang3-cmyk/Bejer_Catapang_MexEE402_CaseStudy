@@ -25,3 +25,4 @@
 | CHAPTER 6 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/1g0ZyKfLvsy-G4ddsgXIzCZZYMgeThzSd?usp=sharing) |
 | CHAPTER 7 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/1X79x--BNXnlbeOHbFFzt0Py2UiT7BfF3#scrollTo=n4g5rxkrAsmx) |
 | CHAPTER 8 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/1zvuqzZzjNpPADBk4Ve0RoAE-FlpiFKvT#scrollTo=6cmoa7DvBsDI) |
+| CHAPTER 9 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/12JtTKvvaCqJluPNNxX_Eon6_8kFySDwN#scrollTo=gzgBla7uDCjD) |
