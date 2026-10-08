@@ -25,3 +25,21 @@
 | CHAPTER 7 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/1X79x--BNXnlbeOHbFFzt0Py2UiT7BfF3#scrollTo=n4g5rxkrAsmx) |
 | CHAPTER 8 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/1zvuqzZzjNpPADBk4Ve0RoAE-FlpiFKvT#scrollTo=6cmoa7DvBsDI) |
 | CHAPTER 9 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/12JtTKvvaCqJluPNNxX_Eon6_8kFySDwN#scrollTo=gzgBla7uDCjD) |
+
+---
+## What we learned
+
+
+## Errors we found
+
+
+## Note on AI tools
+
+
+
+## References
+
+McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
+VanderPlas, J. Python Data Science Handbook.
+Any other page or article you used.
+```
