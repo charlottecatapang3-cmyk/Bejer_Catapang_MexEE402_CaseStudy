@@ -14,6 +14,8 @@
 
 ---
 
+<div align="center">
+
 ## NOTEBOOK LINKS
 
 | CHAPTER | LINK |
@@ -26,7 +28,10 @@
 | CHAPTER 8 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/1zvuqzZzjNpPADBk4Ve0RoAE-FlpiFKvT#scrollTo=6cmoa7DvBsDI) |
 | CHAPTER 9 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/12JtTKvvaCqJluPNNxX_Eon6_8kFySDwN#scrollTo=gzgBla7uDCjD) |
 
+</div>
+
 ---
+
 ## WHAT WE LEARNED
 
 ### Ch1_2_3: Exploring and Cleaning Data
