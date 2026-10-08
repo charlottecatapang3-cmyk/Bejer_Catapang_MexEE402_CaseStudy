@@ -34,13 +34,13 @@
 
 ## WHAT WE LEARNED
 
-### Ch1_2_3: Exploring and Cleaning Data
+### Ch1_2_3: Introduction to Preprocessing, Exploring and Cleaning Data
 
 <p align="justify">
 We learned that preparing and checking the data is an important part of machine learning. We learned that raw data can have missing values, unnecessary information, or other problems that need to be fixed before using it. We also learned that exploring the dataset first helps us understand the data and know what needs to be cleaned. What surprised us was that a lot of preparation is needed before data can be used for analysis and machine learning.
 </p>
 
-### Ch4: Feature Engineering and Encoding
+### Ch4: Transformation, Feature Engineering and Encoding
 
 <p align="justify">
 We learned that we can change existing data or create new features to make the data more useful. We learned how binning can group numerical values into categories and how interaction features can show relationships between variables. We also learned that categorical data needs to be encoded based on the type of category. What surprised us was that a simple calculation like Lemonade per Degree can help us understand the relationship between temperature and sales in a different way.
