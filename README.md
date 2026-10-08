@@ -14,9 +14,6 @@
 
 ---
 
-## Notebook links
-## NOTEBOOK LINKS
-
 ## NOTEBOOK LINKS
 
 | CHAPTER | LINK |
