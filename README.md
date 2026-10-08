@@ -27,19 +27,19 @@
 | CHAPTER 9 | [OPEN NOTEBOOK](https://colab.research.google.com/drive/12JtTKvvaCqJluPNNxX_Eon6_8kFySDwN#scrollTo=gzgBla7uDCjD) |
 
 ---
-## What we learned
-
-
-## Errors we found
-
-
-## Note on AI tools
+## WHAT WE LEARNED
 
 
 
-## References
+## ERRORS WE FOUND
 
-McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
-VanderPlas, J. Python Data Science Handbook.
-Any other page or article you used.
-```
+
+
+## NOTE ON AI TOOLS
+
+
+## REFERENCES
+
+- McKinney, W. (2021). Python for Data Analysis (3rd ed.). O'Reilly Media.
+- VanderPlas, J. (2016). Python Data Science Handbook. O'Reilly Media.
+- Course materials, Google Colab notebooks, and other learning resources used throughout the activities.
