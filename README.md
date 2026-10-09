@@ -88,13 +88,15 @@ We learned that different preprocessing techniques can be combined into one comp
 
 ## ✅ ERRORS WE FOUND
 
-No errors were found in the notebook during our final review. All the code cells ran successfully, and the outputs were displayed as expected.
+For Chapters 1, 2, and 3, we encountered an error when running the notebook because the `vgsales.csv` file was no longer available. This is not a coding error, but rather a file upload issue, since Google Colab may not retain uploaded files between sessions. Therefore, we need to upload the dataset again whenever we run the notebook in a new session.
 
 
 ## 🤖 NOTE ON AI TOOLS
 
 <p align="justify">
-We used different AI tools to help us with this activity, especially when we encountered errors in the code. We used Gemini in Google Colab to help us fix codes that were not running correctly. We also used Claude to help us locate errors in the notebooks. For additional checking, we used ChatGPT to review the corrections and make sure everything was working as expected. These tools helped us solve coding problems and understand our mistakes better.
+We used different AI tools to assist us throughout this activity, especially when we encountered errors in the code and had difficulty understanding certain parts of the notebooks. We used **Gemini in Google Colab** to help us identify and correct codes that were not running properly. We also used **Claude** to locate errors in the notebooks and determine which parts of the code needed to be checked or corrected. These tools provided suggestions and possible solutions that helped us troubleshoot coding problems and understand why certain errors occurred.
+
+In addition, we used **ChatGPT** to explain the functions, commands, and concepts used in the notebooks, particularly when we encountered unfamiliar code or had difficulty understanding how specific functions worked. We also used it to review the suggested corrections and verify whether the solutions were reasonable. After applying the necessary changes, we reran the notebooks to check whether the code worked as expected. Overall, these AI tools served as supplementary learning resources that helped us solve coding problems, understand our mistakes, and improve our knowledge of data preprocessing. Rather than simply relying on the generated answers, we used the explanations and suggestions to gain a better understanding of the concepts covered in Chapters 1–9.
 
 </p>
 
