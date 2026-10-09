@@ -1,11 +1,11 @@
-# MEXEE ELECTIVE 2: DATA SCIENCE AND MACHINE LEARNING
+# 📊 MEXEE ELECTIVE 2: DATA SCIENCE AND MACHINE LEARNING
 
-### BATANGAS STATE UNIVERSITY – ALANGILAN CAMPUS
+### 🏫 BATANGAS STATE UNIVERSITY – ALANGILAN CAMPUS
 ### 1ST SEMESTER, AY 2026–2027
 
 ---
 
-## MEMBERS
+## 👥 MEMBERS
 
 | NAME | STUDENT NUMBER | SECTION |
 |---|---|---|
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## NOTEBOOK LINKS
+## 📓 NOTEBOOK LINKS
 
 | CHAPTER | LINK |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## WHAT WE LEARNED
+## 💡 WHAT WE LEARNED
 
 ### Ch1_2_3: Introduction to Preprocessing, Exploring and Cleaning Data
 
@@ -76,19 +76,19 @@ We learned that different preprocessing steps can be combined into one organized
 We learned that different preprocessing techniques can be combined into one complete process for both numerical and categorical data. We learned how to handle missing values, group numerical values into categories, and create visualizations after preprocessing. We also learned that graphs can help us understand patterns and relationships in the data more easily. What surprised us was that preprocessing not only prepares the data for machine learning but also makes the data easier to understand through visualizations.
 </p>
 
-## ERRORS WE FOUND
+## ✅ ERRORS WE FOUND
 
 No errors were found in the notebook during our final review. All the code cells ran successfully, and the outputs were displayed as expected.
 
 
-## NOTE ON AI TOOLS
+## 🤖 NOTE ON AI TOOLS
 
 <p align="justify">
 We used different AI tools to help us with this activity, especially when we encountered errors in the code. We used Gemini in Google Colab to help us fix codes that were not running correctly. We also used Claude to help us locate errors in the notebooks. For additional checking, we used ChatGPT to review the corrections and make sure everything was working as expected. These tools helped us solve coding problems and understand our mistakes better.
 
 </p>
 
-## REFERENCES
+## 📚 REFERENCES
 
 - McKinney, W. (2021). Python for Data Analysis (3rd ed.). O'Reilly Media.
 - VanderPlas, J. (2016). Python Data Science Handbook. O'Reilly Media.
