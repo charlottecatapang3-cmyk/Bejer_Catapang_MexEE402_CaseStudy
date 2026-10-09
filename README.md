@@ -78,10 +78,15 @@ We learned that different preprocessing techniques can be combined into one comp
 
 ## ERRORS WE FOUND
 
+No errors were found in the notebook during our final review. All the code cells ran successfully, and the outputs were displayed as expected.
 
 
 ## NOTE ON AI TOOLS
+
+<p align="justify">
 We used different AI tools to help us with this activity, especially when we encountered errors in the code. We used Gemini in Google Colab to help us fix codes that were not running correctly. We also used Claude to help us locate errors in the notebooks. For additional checking, we used ChatGPT to review the corrections and make sure everything was working as expected. These tools helped us solve coding problems and understand our mistakes better.
+
+</p>
 
 ## REFERENCES
 
