@@ -88,8 +88,9 @@ We learned that different preprocessing techniques can be combined into one comp
 
 ## ✅ ERRORS WE FOUND
 
-For Chapters 1, 2, and 3, we encountered an error when running the notebook because the `vgsales.csv` file was no longer available. This is not a coding error, but rather a file upload issue, since Google Colab may not retain uploaded files between sessions. Therefore, we need to upload the dataset again whenever we run the notebook in a new session.
+For Chapters 1, 2, and 3, we encountered an error when running the notebooks because the `vgsales.csv` file could no longer be found. Initially, this appeared to be a problem with the code, but we realized that it was not a coding error. Instead, the issue was related to the dataset not being available in the current Google Colab session. Since uploaded files may not persist when a session ends or a new runtime is started, the notebook could not access the required CSV file when we attempted to run the code again at a different time.
 
+To resolve this issue, we uploaded the `vgsales.csv` file again to Google Colab and reran the affected code cells. After uploading the dataset, the notebook was able to access the file and continue executing the necessary data preprocessing steps. This experience helped us understand the importance of checking whether the required datasets are available before running a notebook. We also learned that errors do not always originate from incorrect code; sometimes, they result from missing files or changes in the runtime environment. Therefore, we made sure to upload the required dataset whenever necessary to prevent the same issue from occurring in subsequent runs.
 
 ## 🤖 NOTE ON AI TOOLS
 
