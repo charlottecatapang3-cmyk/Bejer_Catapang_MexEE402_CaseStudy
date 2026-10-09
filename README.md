@@ -98,7 +98,6 @@ We used different AI tools to assist us throughout this activity, especially whe
 
 In addition, we used **ChatGPT** to explain the functions, commands, and concepts used in the notebooks, particularly when we encountered unfamiliar code or had difficulty understanding how specific functions worked. We also used it to review the suggested corrections and verify whether the solutions were reasonable. After applying the necessary changes, we reran the notebooks to check whether the code worked as expected. Overall, these AI tools served as supplementary learning resources that helped us solve coding problems, understand our mistakes, and improve our knowledge of data preprocessing. Rather than simply relying on the generated answers, we used the explanations and suggestions to gain a better understanding of the concepts covered in Chapters 1–9.
 
-</p>
 
 ## 📚 REFERENCES
 
